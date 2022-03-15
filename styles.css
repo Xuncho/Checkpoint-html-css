@@ -1,0 +1,74 @@
+header {
+    background-color:rgb(40, 40, 240);
+    padding: 20px 0px;
+    text-align:left;
+    
+   
+    
+}
+body {
+    background-image: url(BIM3.jpg);
+    background-size: cover;
+    font-family: 'Roboto';
+    margin: 0px;
+    
+}
+
+nav {
+    display: inline;
+       
+}
+a {
+    text-decoration: none;
+    color:white;
+    font-style:inherit;
+    margin: 24px;
+    
+}
+
+#home1{
+    
+    color: black;
+}
+  
+
+#here {
+    color:blue;
+    margin: 0;
+}
+main{
+    margin: 0px 10px;
+}
+footer{
+    background-color:rgb(40, 40, 240);
+    padding: 20px 0px;
+    color: white;
+    text-align: center;
+    
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
+  button {
+      background-color: transparent;
+      border-radius:  black;
+      color: black;
+  }
+  #submit{
+    background-color: transparent;
+    border-radius:  black;
+    color: black;
+  }
+  
+
+  input[type=text], select, textarea {
+    border-radius: black;
+    resize: vertical;
+  }
+  img{
+      height: 400px;
+      width: 720px;
+  }
+ 
